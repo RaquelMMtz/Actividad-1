@@ -11,6 +11,7 @@ namespace Actividad_1
         static void Main(string[] args)
         {
             Console.WriteLine("¡Hola amigos del TEC!");
+            Console.WriteLine("¡Nos vemos el siguiente Semestre!");
             Console.ReadKey();
         }
     }
